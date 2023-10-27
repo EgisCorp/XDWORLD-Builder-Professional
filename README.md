@@ -11,7 +11,7 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 데이터 Issues 관련해서는 builder@egiskorea.com로 보내주시면 감사 하겠습니다.
 
 ## Relese 
-<a id="raw-url" href="http://www.egiscloud.com/builder/products/v_5.0.0.zip">v_5.0.0</a>
+- [v_5.0.0](www.dtwincloud.com/builder/product/v_5.0.0.zip)
 
 ## Relese Note
 ### Version 5.0.1
