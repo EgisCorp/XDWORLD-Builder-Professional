@@ -11,8 +11,9 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 데이터 Issues 관련해서는 builder@egiskorea.com로 보내주시면 감사 하겠습니다.
 
 ## Relese 
+### Windows
+- [v_5.0.1](https://www.dtwincloud.com/builder/product/v_5.0.1.zip)
 - [v_5.0.0](https://www.dtwincloud.com/builder/product/v_5.0.0.zip)
-- <a id="raw-url" href="https://www.dtwincloud.com/builder/product/v_5.0.0.zip">v_5.0.0</a>
 
 ## Relese Note
 ### Version 5.0.1
