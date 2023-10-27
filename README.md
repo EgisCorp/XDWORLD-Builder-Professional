@@ -13,6 +13,8 @@ Issues 란에 문의 사항을 기술해 주시면 기술하신 내용을 참고
 데이터 Issues 관련해서는 builder@egiskorea.com로 보내주시면 감사 하겠습니다.
 
 ## Relese Note
+### Version 5.0.1
+
 ### Version 5.0.0
  * LOD1 지형결합, 건물지반 방식 추가
  * 라이센스 관련 기능 추가
