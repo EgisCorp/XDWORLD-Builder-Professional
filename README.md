@@ -16,6 +16,12 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 - [v_5.0.0](https://www.dtwincloud.com/builder/product/v_5.0.0.zip)
 
 ## Relese Note
+### Version 5.0.2
+ * Shape 지원 가공 기능 중 하나인 POI 가공 기능 수정
+   * 최소, 최대 레벨 UI 추가
+   * 폰트 UI 추가
+   * 지형 폴더 UI 추가
+
 ### Version 5.0.1
  * 영상병렬가공 PNG 기능 수정
  * LOD1 포맷 가공 오류 수정
