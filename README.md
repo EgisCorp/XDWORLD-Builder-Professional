@@ -20,7 +20,10 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 ## Relese Note
 
 ### Version 5.0.2 (Vietnam)
-          
+ * Version 5.0.2 사용
+   * 베트남어 UI    
+   * 병렬처리 기능 제외
+       
 ### Version 5.0.2
  * Shape 지원 가공 기능 중 하나인 POI 가공 기능 수정
    * 최소, 최대 레벨 UI 추가
