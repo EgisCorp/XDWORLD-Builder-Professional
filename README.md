@@ -12,6 +12,8 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 
 ## Relese 
 ### Windows (v_5.0.4 이전 버전은 라이센스 정책이 확립되지 않아 배포가 중지되었습니다)
+- [v_5.0.4](https://www.dtwincloud.com/builder/product/v_5.0.4.zip)
+- [v_5.0.4_vietnam](https://www.dtwincloud.com/builder/product/v_5.0.4_vietnam.zip)
 - ~~[v_5.0.3]()~~
 - ~~[v_5.0.2_vietnam]()~~
 - ~~[v_5.0.2]()~~
