@@ -13,6 +13,7 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 ## Relese 
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
+- [v_5.1.2](https://www.egiscloud.com/builder/product/v_5.1.2.zip)
 - [v_5.1.1](https://www.egiscloud.com/builder/product/v_5.1.1.zip)
 - [v_5.1.0](https://www.egiscloud.com/builder/product/v_5.1.0.zip)
 - [v_5.0.6](https://www.egiscloud.com/builder/product/v_5.0.6.zip)
@@ -27,6 +28,9 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 - ~~[v_5.0.0]()~~
 
 ## Relese Note
+
+### Version 5.1.2
+ * LOD1 가공시 높이값 오류 수정
 
 ### Version 5.1.1
  * LOD1 가공 오류 수정 및 상대높이 UI 추가 (건물최저높이를 제외한 모든 값은 상대높이지만, DEM의 해상도가 5m 이하일 경우 절대높이로 구축)
