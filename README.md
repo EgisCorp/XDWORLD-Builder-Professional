@@ -13,6 +13,7 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 ## Relese 
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
+- [v_5.1.4](https://www.egiscloud.com/builder/product/v_5.1.4.zip)
 - [v_5.1.3](https://www.egiscloud.com/builder/product/v_5.1.3.zip)
 - [v_5.1.2](https://www.egiscloud.com/builder/product/v_5.1.2.zip)
 - [v_5.1.1](https://www.egiscloud.com/builder/product/v_5.1.1.zip)
@@ -30,6 +31,9 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 
 ## Relese Note
 
+### Version 5.1.4
+ * LOD1 지형결합, 층수 옵션 추가
+   
 ### Version 5.1.3
  * LOD1 가공결과 meta 추가
  * 작은 객체 랜더링 옵션 추가 (WebGL에서 확인시 작은 객체 랜더링 옵션 확인)
