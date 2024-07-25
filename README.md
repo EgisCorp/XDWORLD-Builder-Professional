@@ -13,6 +13,7 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 ## Relese 
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
+- [v_5.1.5](https://www.egiscloud.com/builder/product/v_5.1.5.zip)
 - [v_5.1.4](https://www.egiscloud.com/builder/product/v_5.1.4.zip)
 - [v_5.1.3](https://www.egiscloud.com/builder/product/v_5.1.3.zip)
 - [v_5.1.2](https://www.egiscloud.com/builder/product/v_5.1.2.zip)
@@ -30,6 +31,9 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 - ~~[v_5.0.0]()~~
 
 ## Relese Note
+
+### Version 5.1.5
+ * VWorld API Key 업데이트
 
 ### Version 5.1.4
  * LOD1 지형결합, 층수 옵션 추가
