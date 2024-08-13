@@ -13,23 +13,15 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 ## Relese 
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
+#### 한국어 
 - [v_5.1.6](https://www.egiscloud.com/builder/product/v_5.1.6.zip)
 - [v_5.1.5](https://www.egiscloud.com/builder/product/v_5.1.5.zip)
 - [v_5.1.4](https://www.egiscloud.com/builder/product/v_5.1.4.zip)
 - [v_5.1.3](https://www.egiscloud.com/builder/product/v_5.1.3.zip)
 - [v_5.1.2](https://www.egiscloud.com/builder/product/v_5.1.2.zip)
-- ~~[v_5.1.1](https://www.egiscloud.com/builder/product/v_5.1.1.zip)~~
-- ~~[v_5.1.0](https://www.egiscloud.com/builder/product/v_5.1.0.zip)~~
-- ~~[v_5.0.6](https://www.egiscloud.com/builder/product/v_5.0.6.zip)~~
+  
+#### 베트남
 - [v_5.0.6_vietnam](https://www.egiscloud.com/builder/product/v_5.0.6_vietnam.zip)
-- ~~[v_5.0.5](https://www.egiscloud.com/builder/product/v_5.0.5.zip)~~
-- ~~[v_5.0.4_vietnam](https://www.dtwincloud.com/builder/product/v_5.0.4_vietnam.zip)~~
-- ~~[v_5.0.4](https://www.dtwincloud.com/builder/product/v_5.0.4.zip)~~
-- ~~[v_5.0.3]()~~
-- ~~[v_5.0.2_vietnam]()~~
-- ~~[v_5.0.2]()~~
-- ~~[v_5.0.1]()~~
-- ~~[v_5.0.0]()~~
 
 ## Relese Note
 
