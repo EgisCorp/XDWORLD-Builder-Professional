@@ -24,7 +24,10 @@ Issues 란에 활용 중 질의 사항을 기술해 주시면 기술하신 내�
 - [v_5.0.6_vietnam](https://www.egiscloud.com/builder/product/v_5.0.6_vietnam.zip)
 
 ## Relese Note
-
+### Version 5.1.6
+ * 배경 지도 기능 업데이트
+   * 사용자 지정 Server 지도 설정 기능 추가
+     
 ### Version 5.1.5
  * VWorld API Key 업데이트
 
