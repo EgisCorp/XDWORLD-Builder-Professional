@@ -13,6 +13,7 @@
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
 #### 한국어 
+- [v_5.1.7](https://www.egiscloud.com/builder/product/v_5.1.7.zip)
 - [v_5.1.6](https://www.egiscloud.com/builder/product/v_5.1.6.zip)
 - [v_5.1.5](https://www.egiscloud.com/builder/product/v_5.1.5.zip)
 - [v_5.1.4](https://www.egiscloud.com/builder/product/v_5.1.4.zip)
