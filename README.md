@@ -27,6 +27,9 @@
 ### Version 5.1.6
  * 배경 지도 기능 업데이트
    * 사용자 지정 Server 지도 설정 기능 추가
+ * 이슈 처리
+  * https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/67 처리
+  * https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/65 처리
      
 ### Version 5.1.5
  * VWorld API Key 업데이트
