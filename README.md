@@ -9,6 +9,10 @@
 
 데이터 관련 Issues는 builder@egiskorea.com으로 보내주시면 감사하겠습니다.
 
+## Manaual
+
+[메뉴얼](https://egiscorp.gitbook.io/https-egiscorp.gitbook.io-xdworld-builder-manual)은 지속적으로 업데이트 예정입니다.
+
 ## Relese 
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
