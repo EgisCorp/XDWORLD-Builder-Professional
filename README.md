@@ -32,6 +32,11 @@
 
 ## Relese Note
 
+### Version 5.1.10
+ * POI 가공, 가시화 모듈 수정 ([issues73](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/73) 처리완료)
+ * 레이어 삭제 모듈 수정 ([issues72](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/72) 처리완료)
+ * 선택된 객체 해제 기능 추가
+
 ### Version 5.1.9
  * 3DS, OBJ 가공 모듈 수정
  * XND 파일 가공, 가시화 모듈 수정
