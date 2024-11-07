@@ -17,21 +17,29 @@
 ### Windows (v_5.0.4 버전부터 배포를 합니다.)
 
 #### 한국어 
+- [XDWORLD Builder Professional V5_5.1.12](https://www.egiscloud.com/builder/product/XDWORLD_Builder_Professional_V5_5.1.12.zip)
 - [XDWORLD Builder Professional V5_5.1.11](https://www.egiscloud.com/builder/product/XDWORLD_Builder_Professional_V5_5.1.11.zip)
 - [XDWORLD Builder Professional V5_5.1.10](https://www.egiscloud.com/builder/product/XDWORLD_Builder_Professional_V5_5.1.10.zip)
 - [v_5.1.9](https://www.egiscloud.com/builder/product/v_5.1.9.zip)
 - [v_5.1.8](https://www.egiscloud.com/builder/product/v_5.1.8.zip)
-- [v_5.1.7](https://www.egiscloud.com/builder/product/v_5.1.7.zip)
-- [v_5.1.6](https://www.egiscloud.com/builder/product/v_5.1.6.zip)
-- [v_5.1.5](https://www.egiscloud.com/builder/product/v_5.1.5.zip)
-- [v_5.1.4](https://www.egiscloud.com/builder/product/v_5.1.4.zip)
-- [v_5.1.3](https://www.egiscloud.com/builder/product/v_5.1.3.zip)
-- [v_5.1.2](https://www.egiscloud.com/builder/product/v_5.1.2.zip)
   
 #### 베트남
 - [v_5.0.6_vietnam](https://www.egiscloud.com/builder/product/v_5.0.6_vietnam.zip)
 
 ## Relese Note
+
+### Version 5.1.12
+* Issues 처리
+   * [issues 85](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/85)
+   * [issues 83](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/83)
+   * [issues 82](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/82)
+   * [issues 77](https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/77)
+* 기능
+  * 지도 저장 기능 수정(xdw -> xdm 변경)
+    * 사용자 지도 저장 기능 추가.
+    * 저장 구조 변경으로 xdw 파일은 미지원.
+  * 건물 LOD Texture 기능 수정
+  * 포인트 클라우드 파일 포맷 버전 수정에 따른 기능 변경
 
 ### Version 5.1.11
  * Issues 처리
