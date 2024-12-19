@@ -71,6 +71,7 @@
  * 이슈 처리
   * https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/67 처리
   * https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/65 처리
+  * https://github.com/EgisCorp/XDWORLD-Builder-Professional/issues/63 처리
      
 ### Version 5.1.5
  * VWorld API Key 업데이트
