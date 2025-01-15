@@ -1,4 +1,4 @@
-# XDWORLD-Builder-Professional 미지원합니다.
+# XDWORLD-Builder-Professional 2025년 1월 13일 이후 미지원합니다.
 
 # XDWORLD-Builder-Professional
 
