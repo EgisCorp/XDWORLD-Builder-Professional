@@ -1,5 +1,7 @@
 # XDWORLD-Builder-Professional 2025년 1월 13일 이후 미지원합니다.
 
+## 앞으로는 오픈소스 형태로 제공할 예정이며 오픈소스 릴리스를 통해 사용자가 직접 접근 및 수정할 수 있도록 지원할 계획입니다.
+
 # XDWORLD-Builder-Professional
 
 [![EgisLogo](https://user-images.githubusercontent.com/82925313/160987075-ce7eada9-91ca-4b72-beb6-396e142f90a2.png)](http://www.egiskorea.com/)
